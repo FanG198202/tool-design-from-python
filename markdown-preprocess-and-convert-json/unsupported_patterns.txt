@@ -1,0 +1,4 @@
+# 每行一個正則，不支援的Markdown型態
+<\/?(div|span|script|iframe|table|form|input|button)[^>]*>
+```(mermaid|plantuml|flowchart|dot|sequence|graphviz)
+\$\$[^$]+\$\$
